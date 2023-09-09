@@ -46,12 +46,14 @@ I am currently learning JavaScript, React.js and React native <img src="https://
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  </div>
 
+
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cool-rex&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-rex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?usernamecool-rex&show_icons=true&locale=en" alt="Rexford" /></p>
 
 
 
