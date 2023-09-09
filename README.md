@@ -23,7 +23,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
 ### :woman_technologist: About Me :
 
@@ -35,7 +34,7 @@ I am currently learning JavaScript, React.js and React native <img src="https://
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rexford-brefo/L)
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -47,7 +46,7 @@ I am currently learning JavaScript, React.js and React native <img src="https://
  </div>
 
 
----
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cool-rex&theme=dark&background=000000)](https://git.io/streak-stats)
