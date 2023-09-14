@@ -28,7 +28,7 @@
 
 I am currently learning JavaScript, React.js and React native <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m leraning to be a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m learning to be a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I watch anime, read blogs or watch youtube .
 
@@ -42,6 +42,7 @@ I am currently learning JavaScript, React.js and React native <img src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg title="Vscode" alt="VScode" width="40" height="40"/>&nbsp;
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  </div>
 
