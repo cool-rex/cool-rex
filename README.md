@@ -30,7 +30,7 @@ I am currently learning JavaScript, React.js and React native <img src="https://
 
 - :telescope: I’m learning to be a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I watch anime, read blogs or watch youtube videos relating to tech.
+- :zap: In my free time, I work on personal projects or i watch anime.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rexford-brefo/L)
 
