@@ -28,8 +28,6 @@
 
 I am currently learning JavaScript, React.js and React native <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :zap: In my free time, I work on personal projects or play games
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rexford-brefo/L)
 
 
